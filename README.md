@@ -13,9 +13,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-21%2B-3DDC84?logo=android" alt="Android 21+">
   <img src="https://img.shields.io/badge/API-34-blue" alt="API 34">
-  <img src="https://img.shields.io/github/downloads/msrofficial/MiruDL/total?color=blueviolet" alt="Downloads">
-  <img src="https://img.shields.io/github/v/release/msrofficial/MiruDL?color=success" alt="Latest Release">
-  <img src="https://img.shields.io/github/last-commit/msrofficial/MiruDL?color=orange" alt="Last Commit">
   <br>
   <img src="https://hits.sh/github.com/msrofficial/MiruDL.svg?label=Visitors&color=informational" alt="Visitors">
 </p>
@@ -50,14 +47,6 @@ No ads. No accounts. No tracking. Just a clean way to get your favorite shows on
 | **Material Design** | Clean, modern Android UI |
 
 > Currently only one server is available. More servers will be added in the future.
-
----
-
-## Screenshots
-
-| Home | Detail | Downloads | Settings |
-|------|--------|-----------|----------|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Downloads](screenshots/downloads.png) | ![Settings](screenshots/settings.png) |
 
 ---
 
