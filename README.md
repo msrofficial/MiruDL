@@ -74,7 +74,7 @@ No ads. No accounts. No tracking. Just a clean way to get your favorite shows on
 ## Download
 
 <p align="center">
-  <a href="">
+  <a href="https://huggingface.co/datasets/msrpatch/mirudl/resolve/main/mirudl-2.0.3.apk">
     <img src="https://img.shields.io/badge/Download%20APK-Download%20Latest-1a8a1a?style=for-the-badge&logo=android&logoColor=white&labelColor=2ea043" alt="Download Latest APK">
   </a>
   <br>
