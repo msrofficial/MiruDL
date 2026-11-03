@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="120" height="120" alt="MiruDL Logo">
+  <img src="app-icon.png" width="120" height="120" alt="MiruDL Logo">
 </p>
 
 <h1 align="center">MiruDL - Anime Downloader</h1>
