@@ -2,7 +2,7 @@
   <img src="app-icon.png" width="120" height="120" alt="MiruDL Logo">
 </p>
 
-<h1 align="center">MiruDL - Anime Downloader</h1>
+<h1 align="center">MiruDL - Batch Anime Downloader</h1>
 
 <p align="center">
   <strong>A lightweight anime downloader for Android</strong>
