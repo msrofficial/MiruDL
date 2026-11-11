@@ -14,11 +14,6 @@
   <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" />
   <img src="https://img.shields.io/badge/Material_3-UI-6750A4?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3" />
 </p>
-
-<a href="https://mirudl.pages.dev/#download">
-  <img src="https://img.shields.io/badge/Download_for_Android-2.3.2-0EA5E9?style=for-the-badge&logo=android&logoColor=white" alt="Download MiruDL 2.3.2 for Android" height="56" />
-</a>
-
 <br />
 <br />
 
@@ -37,6 +32,15 @@ MiruDL is a lightweight, no-fuss Android app for browsing and downloading anime 
 The app is built around a built-in HLS engine with support for multiple sources, separate audio and subtitle tracks, download speed control, and Android's Storage Access Framework for choosing exactly where files are saved.
 
 > MiruDL does not host or distribute anime content. It only downloads streams from third-party sources. Users are responsible for complying with local laws and the terms of the services they use. MiruDL is not affiliated with any streaming platform.
+
+<div align="center">
+
+<a href="https://mirudl.pages.dev/#download">
+  <img src="https://img.shields.io/badge/Download_for_Android-2.3.2-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download MiruDL 2.3.2 for Android" height="56" />
+</a>
+
+</div>
+
 
 ## Features
 
@@ -59,7 +63,7 @@ The app is built around a built-in HLS engine with support for multiple sources,
 
 | Home | Detail | Downloads | Settings |
 | --- | --- | --- | --- |
-| <img src="https://mirudl.pages.dev/screenshots/home.png" width="200" alt="MiruDL home screen" /> | <img src="https://mirudl.pages.dev/screenshots/detail.png" width="200" alt="MiruDL anime detail screen" /> | <img src="https://mirudl.pages.dev/screenshots/downloads.png" width="200" alt="MiruDL downloads screen" /> | <img src="https://mirudl.pages.dev/screenshots/settings.png" width="200" alt="MiruDL settings screen" /> |
+| <img src="/assets/Screenshot_2026.11.12_01.47.20.961.png" width="200" alt="MiruDL home screen" /> | <img src="/assets/Screenshot_2026.11.12_01.47.14.694.png" width="200" alt="MiruDL anime detail screen" /> | <img src="/assets/Screenshot_2026.11.12_01.46.39.494.png" width="200" alt="MiruDL downloads screen" /> | <img src="/assets/Screenshot_2026.11.12_01.44.50.795.png" width="200" alt="MiruDL settings screen" /> |
 
 ## Installation
 
@@ -70,15 +74,6 @@ The app is built around a built-in HLS engine with support for multiple sources,
 
 **Requires Android 5.0 (API 21) or newer.**
 
-## Built With
-
-- **Java 17** and the Android SDK
-- **Material Components 3** for the interface
-- **OkHttp** for networking and stream requests
-- **MediaExtractor / MediaMuxer** for HLS remuxing
-- **Storage Access Framework** for user-selected download folders
-- **Glide** for image loading
-
 ---
 
 <div align="center">
@@ -86,7 +81,4 @@ The app is built around a built-in HLS engine with support for multiple sources,
 <a href="https://mirudl.pages.dev/#download">
   <img src="https://img.shields.io/badge/Download_MiruDL-Get_the_latest_APK-0EA5E9?style=for-the-badge&logo=android&logoColor=white" alt="Download the latest MiruDL APK" height="48" />
 </a>
-
-<sub>Made with care for anime fans.</sub>
-
 </div>
