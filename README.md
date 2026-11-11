@@ -30,6 +30,7 @@ The app is built around a built-in HLS engine with support for multiple sources,
 
 > MiruDL does not host or distribute anime content. It only downloads streams from third-party sources. Users are responsible for complying with local laws and the terms of the services they use. MiruDL is not affiliated with any streaming platform.
 
+<br/>
 <div align="center">
 
 <a href="https://mirudl.pages.dev/#download">
