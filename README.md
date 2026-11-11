@@ -33,7 +33,7 @@ The app is built around a built-in HLS engine with support for multiple sources,
 <div align="center">
 
 <a href="https://mirudl.pages.dev/#download">
-  <img src="https://img.shields.io/badge/Download_for_Android-2.3.2-2EA043?style=for-the-badge&logo=android&logoColor=white" alt=" Click me to Download MiruDL 2.3.2 for Android" height="56" />
+  <img src="https://img.shields.io/badge/Click_here_to_Download-2.3.2-2EA043?style=for-the-badge&logo=android&logoColor=white" alt=" Click me to Download MiruDL 2.3.2 for Android" height="56" />
 </a>
 
 </div>
