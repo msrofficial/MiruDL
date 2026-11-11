@@ -61,7 +61,7 @@ The app is built around a built-in HLS engine with support for multiple sources,
 
 | Home | Detail | Downloads | Settings |
 | --- | --- | --- | --- |
-| <img src="/assets/Screenshot_2026.11.12_01.47.20.961.png" width="200" alt="MiruDL home screen" /> | <img src="/assets/Screenshot_2026.11.12_01.47.14.694.png" width="200" alt="MiruDL anime detail screen" /> | <img src="/assets/Screenshot_2026.11.12_01.46.39.494.png" width="200" alt="MiruDL downloads screen" /> | <img src="/assets/Screenshot_2026.11.12_01.44.50.795.png" width="200" alt="MiruDL settings screen" /> |
+| <img src="/assets/Screenshot_2026.11.12_01.44.50.795.png" width="200" alt="MiruDL settings screen" /> | <img src="/assets/Screenshot_2026.11.12_01.46.39.494.png" width="200" alt="MiruDL downloads screen" /> | <img src="/assets/Screenshot_2026.11.12_01.47.14.694.png" width="200" alt="MiruDL anime detail screen" /> | <img src="/assets/Screenshot_2026.11.12_01.47.20.961.png" width="200" alt="MiruDL home screen" /> |
 
 ## Installation
 
