@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/version-2.3.2-0EA5E9?style=flat-square" alt="Version 2.3.2" />
   <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" />
   <img src="https://img.shields.io/badge/Material_3-UI-6750A4?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3" />
+  <img src="https://hits.sh/github.com/msrofficial/MiruDL.svg?style=flat-square&label=views&color=0EA5E9" alt="Repository views" />
 </p>
 <br />
 
